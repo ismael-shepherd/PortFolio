@@ -1,0 +1,12 @@
+{
+    "name": "zrdde/portfolio",
+    "authors": [
+        {
+            "name": "Ismael Shepherd",
+            "email": "ismaelshepherd@hotmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.2"
+    }
+}
